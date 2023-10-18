@@ -1,0 +1,19 @@
+{
+  "name": "gorillas-dev-zadanie",
+  "author": "Rafal Malyszko",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4",
+    "vite-plugin-string": "^1.2.2"
+  },
+  "dependencies": {
+    "lil-gui": "^0.18.2",
+    "three": "^0.148.0"
+  }
+}
